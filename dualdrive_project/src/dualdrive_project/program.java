@@ -16,6 +16,7 @@ public class program {
 		//sysout
 		System.out.println("dual drive");
 		System.out.println("elagazas");
+		System.out.println("elagazas3");
 	}
 
 }
