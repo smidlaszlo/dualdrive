@@ -18,6 +18,8 @@ public class program {
 		System.out.println("elagazas");
 		System.out.println("elagazas3");
 		System.out.println("elagazas2");
+		System.out.println("elagazas6");
+		
 	}
 
 }
