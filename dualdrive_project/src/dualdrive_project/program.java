@@ -19,5 +19,9 @@ public class program {
 		System.out.println("elagazas3");
 		System.out.println("elagazas2");
 	}
+	
+	public void valami1() {
+		//todo
+	}
 
 }
