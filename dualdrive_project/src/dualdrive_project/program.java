@@ -24,4 +24,8 @@ public class program {
 		//todo
 	}
 
+	public void valami2() {
+		//todo
+	}
+	
 }
