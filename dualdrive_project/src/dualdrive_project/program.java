@@ -24,6 +24,7 @@ public class program {
 	
 	public void valami1() {
 		//todo
+		//léklé
 	}
 
 	public void valami2() {
